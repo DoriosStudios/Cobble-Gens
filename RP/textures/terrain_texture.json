@@ -1,0 +1,26 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "Cobblestone Generators",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"utilitycraft_cobble_gen_copper": {
+			"textures": "textures/blocks/cobblestone_generators/cobble_gen_copper"
+		},
+		"utilitycraft_cobble_gen_iron": {
+			"textures": "textures/blocks/cobblestone_generators/cobble_gen"
+		},
+		"utilitycraft_cobble_gen_gold": {
+			"textures": "textures/blocks/cobblestone_generators/cobble_gen_gold"
+		},
+		"utilitycraft_cobble_gen_emerald": {
+			"textures": "textures/blocks/cobblestone_generators/cobble_gen_emerald"
+		},
+		"utilitycraft_cobble_gen_diamond": {
+			"textures": "textures/blocks/cobblestone_generators/cobble_gen_diamond"
+		},
+		"utilitycraft_cobble_gen_netherite": {
+			"textures": "textures/blocks/cobblestone_generators/cobble_gen_netherite"
+		}
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"product_type": "addon",
+		"authors": [
+			"Dorios Studios"
+		]
+	},
+	"header": {
+		"name": "Cobblestone Generators",
+		"description": "Adds passive sources of cobblestone.",
+		"min_engine_version": [
+			1,
+			21,
+			120
+		],
+		"uuid": "563d8e96-3d1a-4806-9c47-f63176336cf4",
+		"version": [
+			1,
+			0,
+			1
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "813811d1-72b1-4288-9a14-c2fc35ed3b4b",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

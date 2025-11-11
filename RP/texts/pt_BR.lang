@@ -1,0 +1,7 @@
+tile.utilitycraft:cobble_gen_0.name=Gerador de Pedregulho (§vTier I§r)\n§7- Gera 0.25 por segundo
+tile.utilitycraft:cobble_gen_1.name=Gerador de Pedregulho (Tier II)\n§7- Gera 0.5 por segundo
+tile.utilitycraft:cobble_gen_2.name=Gerador de Pedregulho (§eTier III§r)\n§7- Gera 1 por segundo
+tile.utilitycraft:cobble_gen_3.name=Gerador de Pedregulho (§aTier IV§r)\n§7- Gera 2 por segundo
+tile.utilitycraft:cobble_gen_4.name=Gerador de Pedregulho (§bTier V§r)\n§7- Gera 4 por segundo
+tile.utilitycraft:cobble_gen_5.name=Gerador de Pedregulho (§8Tier VI§r)\n§7- Gera 20 por segundo
+dorios:itemGroup.name.cobble_gens=Geradores de Pedregulho

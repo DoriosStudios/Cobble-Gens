@@ -1,0 +1,7 @@
+tile.utilitycraft:cobble_gen_0.name=Cobblestone Generator (§vTier 1§r)\n§7- Produces 0.25 per second
+tile.utilitycraft:cobble_gen_1.name=Cobblestone Generator (Tier 2) \n§7- Produces 0.5 per second
+tile.utilitycraft:cobble_gen_2.name=Cobblestone Generator (§eTier 3§r) \n§7- Produces 1 per second
+tile.utilitycraft:cobble_gen_3.name=Cobblestone Generator (§aTier 4§r) \n§7- Produces 2 per second
+tile.utilitycraft:cobble_gen_4.name=Cobblestone Generator (§bTier 5§r) \n§7- Produces 4 per second
+tile.utilitycraft:cobble_gen_5.name=Cobblestone Generator (§8Tier 6§r) \n§7- Produces 20 per second
+dorios:itemGroup.name.cobble_gens=Cobblestone Generators
