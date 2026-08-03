@@ -4,11 +4,15 @@
 		"product_type": "addon",
 		"authors": [
 			"Dorios Studios"
-		]
+		],
+		"url": "https://www.curseforge.com/members/doriosstudios/projects"
 	},
+	"capabilities": [
+		"pbr"
+	],
 	"header": {
 		"name": "Cobblestone Generators",
-		"description": "Adds passive sources of cobblestone.",
+		"description": "2.3.0 §6Dorios Studios§r\nAdds passive sources of cobblestone.",
 		"min_engine_version": [
 			1,
 			21,
@@ -16,9 +20,9 @@
 		],
 		"uuid": "563d8e96-3d1a-4806-9c47-f63176336cf4",
 		"version": [
-			1,
-			0,
-			1
+			2,
+			3,
+			0
 		]
 	},
 	"modules": [
@@ -26,8 +30,18 @@
 			"type": "resources",
 			"uuid": "813811d1-72b1-4288-9a14-c2fc35ed3b4b",
 			"version": [
-				1,
-				0,
+				2,
+				3,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "65bb8a66-b79b-4f4e-9a29-85c0cf674638",
+			"version": [
+				2,
+				3,
 				0
 			]
 		}

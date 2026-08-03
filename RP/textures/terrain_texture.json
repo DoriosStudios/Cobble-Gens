@@ -5,22 +5,22 @@
 	"texture_name": "atlas.terrain",
 	"texture_data": {
 		"utilitycraft_cobble_gen_copper": {
-			"textures": "textures/blocks/cobblestone_generators/cobble_gen_copper"
+			"textures": "textures/blocks/generators/cobblestone/copper"
 		},
 		"utilitycraft_cobble_gen_iron": {
-			"textures": "textures/blocks/cobblestone_generators/cobble_gen"
+			"textures": "textures/blocks/generators/cobblestone/basic"
 		},
 		"utilitycraft_cobble_gen_gold": {
-			"textures": "textures/blocks/cobblestone_generators/cobble_gen_gold"
+			"textures": "textures/blocks/generators/cobblestone/gold"
 		},
 		"utilitycraft_cobble_gen_emerald": {
-			"textures": "textures/blocks/cobblestone_generators/cobble_gen_emerald"
+			"textures": "textures/blocks/generators/cobblestone/emerald"
 		},
 		"utilitycraft_cobble_gen_diamond": {
-			"textures": "textures/blocks/cobblestone_generators/cobble_gen_diamond"
+			"textures": "textures/blocks/generators/cobblestone/diamond"
 		},
 		"utilitycraft_cobble_gen_netherite": {
-			"textures": "textures/blocks/cobblestone_generators/cobble_gen_netherite"
+			"textures": "textures/blocks/generators/cobblestone/netherite"
 		}
 	}
 }

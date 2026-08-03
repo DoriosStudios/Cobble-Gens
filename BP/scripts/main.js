@@ -1,3 +1,7 @@
-import './doriosAPI/main.js'
+import * as DoriosLib from "./DoriosLib/index.js"
 
-import './cobble_generators.js'
+import "./blocks/cobbleGenerators.js"
+
+DoriosLib.registry.install()
+DoriosLib.container.initialize()
+DoriosLib.linkNode.initializeLinkNodeIO()
